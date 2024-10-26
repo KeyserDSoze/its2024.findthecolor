@@ -36,7 +36,7 @@ L’obiettivo del gioco è cliccare sul quadrato del colore corretto quando il n
 2. **Timer di Gioco (1 punto)**  
    - Aggiungi un timer che limita il tempo di gioco a 30 secondi. Quando il tempo scade, il gioco termina e il punteggio finale viene visualizzato.
 
-3. **Timer di Gioco (1 punto)**  
+3. **Animazione (1 punto)**  
    - Aggiungi un'animazione css durante il cambiamento di ordine dei colori.
 
 ---
