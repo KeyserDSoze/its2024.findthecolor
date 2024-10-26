@@ -20,12 +20,21 @@ p {
     margin: 10px;
 }
 
+.colors-container {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
 .color-box {
     width: 100px;
     height: 100px;
-    display: inline-block;
-    margin: 10px;
     cursor: pointer;
+    transition: transform 0.3s ease; /* Animazione per il riposizionamento */
+}
+
+.color-box.move-animation {
+    transform: rotate(360deg) scale(1.1); /* Rotazione completa e aumento della dimensione */
 }
 
 #red { background-color: red; }
