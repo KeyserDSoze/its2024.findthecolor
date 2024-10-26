@@ -45,3 +45,6 @@ L’obiettivo del gioco è cliccare sul quadrato del colore corretto quando il n
 
 - **Parte Sufficiente**: 17 punti, che corrispondono alla sufficienza se completati.
 - **Parte Finale**: 3 punti per completare tutte le funzionalità aggiuntive.
+
+
+![Game design](https://github.com/keyserdsoze/its2024.findthecolor/blob/main/game.png?raw=true)
